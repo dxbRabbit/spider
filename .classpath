@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="lib/json-lib-2.4-jdk15.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540775062009/source/json-lib-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/jsoup-1.11.3.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540775062009/source/jsoup-1.11.3-sources-1540797632602.jar"/>
+	<classpathentry kind="lib" path="lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540430227033/source/commons-logging-1.2-sources.jar"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.17.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540430227033/source/log4j-1.2.17-sources.jar"/>
+	<classpathentry kind="lib" path="lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-io-2.4.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540775062009/source/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="lib/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-chrome-driver-3.14.0.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540810095470/source/selenium-chrome-driver-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.3.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-remote-driver-3.14.0.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540810095470/source/selenium-remote-driver-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-java-client-driver-1.0.2.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-server-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="lib/selenium-api-3.14.0.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540810095470/source/selenium-api-3.14.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.3.2.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.3.4.jar"/>
+	<classpathentry kind="lib" path="lib/guava-27.0-jre.jar"/>
+	<classpathentry kind="lib" path="lib/okhttp-3.11.0.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540810095470/source/okhttp-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/okio-2.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/kotlin-stdlib-1.3.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-all-5.15.4.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540810095470/source/activemq-all-5.15.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-console-5.15.4.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-jms-pool-5.15.4.jar"/>
+	<classpathentry kind="lib" path="lib/activemq.jar"/>
+	<classpathentry kind="lib" path="lib/camel-jms-2.19.5.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/stompjms-client-1.1.jar" sourcepath="C:/Users/as/AppData/Local/Temp/.org.sf.feeling.decompiler1540889752089/source/stompjms-client-1.1-sources-1540911432331.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
